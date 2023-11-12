@@ -6,6 +6,8 @@ ST-01 and ST-02 were inspired by the aesthetics of the arcade game typography im
 
 > Please read the linked [EULA](/EULA.pdf) (End User License Agreement) carefully before installing or using the ST-01 font. By installing or using the ST-01 font, you are agreeing to be bound by the terms of this EULA.
 
+Featured in [Typodarium 2023](https://www.slanted.de/typodarium-2023/), look for June 7th and October 19th.
+
 # ST-01
 
 ![ST-01 specimen 1](images/specimens/ST-01/ST-01_1.png)
